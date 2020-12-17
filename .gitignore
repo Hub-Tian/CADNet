@@ -1,0 +1,11 @@
+**__pycache__**
+*.pyc
+venv/
+*.idea/
+*.so
+data/
+gpu_jobs/
+output/
+pcdet.egg-info/
+build/
+*.sh
